@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## Hi, I'm Joseph!
+
+I'm a recent Cal State Northridge graduate with a BA in Psychology 
+and currently looking for a Full-Time position in UX Research.
 
 You can use the [editor on GitHub](https://github.com/projectfreelancer/UserExperience/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
